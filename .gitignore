@@ -1,0 +1,20 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Large Model weights
+models/*.caffemodel
+models/*.onnx
+*.caffemodel
+*.onnx
+
+# Output artifacts
+output_*
+
